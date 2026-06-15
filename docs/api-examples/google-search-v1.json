@@ -3,13 +3,13 @@
   "message": "success",
   "data": {
     "api": "/api/v1/google/search",
-    "checkedAt": "2026-06-15 18:10:02",
+    "checkedAt": "2026-06-15 20:10:01",
     "example": {
       "code": 200,
       "message": "success",
       "data": {
         "search_information": {
-          "time_taken": 0.43,
+          "time_taken": 0.4,
           "total_results": 2840000,
           "query_displayed": "coffee",
           "spelling_fixed": "Choose area",
@@ -24,29 +24,29 @@
         "local_results": [
           {
             "position": 1,
-            "title": "7 Brew Coffee",
-            "rating": "4.6",
-            "reviews": "309",
-            "address": "4.6(309) · Coffee shop",
-            "hours": "Cincinnati, OH",
+            "title": "Kafen House",
+            "rating": "4.8",
+            "reviews": "115",
+            "address": "4.8(115) · $1–10 · Coffee shop",
+            "hours": "Middlesex, NJ",
             "links": {}
           },
           {
             "position": 2,
-            "title": "Birdie’s Coffee Co.",
-            "rating": "4.6",
-            "reviews": "246",
-            "address": "4.6(246) · $1–10 · Coffee shop",
-            "hours": "Norwood, OH",
+            "title": "Safwa Coffee & Teahouse",
+            "rating": "4.8",
+            "reviews": "731",
+            "address": "4.8(731) · $10–20 · Coffee shop",
+            "hours": "149 Pierce St Unit 4",
             "links": {}
           },
           {
             "position": 3,
-            "title": "Elliott Coffee",
-            "rating": "4.9",
-            "reviews": "225",
-            "address": "4.9(225) · $1–10 · Coffee shop",
-            "hours": "Dayton, KY",
+            "title": "Leo Brothers Cafe",
+            "rating": "4.8",
+            "reviews": "71",
+            "address": "4.8(71) · $1–10 · Cafe",
+            "hours": "Piscataway, NJ",
             "links": {}
           }
         ],
@@ -71,63 +71,17 @@
             "page_rank": 1
           },
           {
-            "title": "YIELD Coffee Roasters | What Coffee Should Be - Cincinnati",
-            "link": "https://www.yieldcoffee.com/?srsltid=AfmBOoqKqt4dE10EVz23yBrJhOcuhR1jFWpWhi_p_5jSU7lRipRLXpuX",
-            "displayed_link": "https://www.yieldcoffee.com",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA20lEQVR4Aa3OEZDDYBiE4fWzQq2OpTpUzuoTnwlV4lOvn0soVoxGTjMTCcVnAsHQt+9BpgfJn6N7cR9ZsWRjG2wbs/TGZXivKzTTd9MGY9MM4Q12Z11mKqmMWKPHXJriITV4g/EltXHTtYftodeHqjiqGO01Bu1VRUglWzRTrtugU02wQfPUudRnl0CC6nTIdJ9wCtuLjnriJM6ZdKoItmhTSNcuiQTVQVngNNZH3fkb+XeU8h00U9sPOIkE0WP28KEZJ9Fw0YtIo31Ts4OYvp4hjRjYQRsHNr/9AEhbwKHOYdtuAAAAAElFTkSuQmCC",
-            "source": "YIELD Coffee Roasters",
-            "snippet": "YIELD Coffee Roasters is an award-winning specialty coffee roasting company committed to relational coffee and sustainable development.Read more",
+            "title": "Buy Coffee, Tea, Powders Online | The Coffee Bean & Tea ...",
+            "link": "https://www.coffeebean.com/",
+            "displayed_link": "https://www.coffeebean.com",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAIVBMVEVHcExTLG1TLG1TLG1TLW1TLG1TLG1TLW1TLG1TLG1TLG30H49eAAAAC3RSTlMAFT5uyLedLN38V4AViBkAAADiSURBVHgBlZAlYgIAAAAPl4JLm3Zcy1zifGtzLbi2uaQ5UnC+iWvk2sU7JkfrcMxAH93qweWatW+yJ49GE3kKAgCpEwBjBgBkeeI5K/iCmADzifL96QukS5FnwEnyaXMRBAdrNhCskHz/DSJzrZXUINxAeVVCeLFbT0yDaBs0QtnmndpQVLf0FEj6r8Fopavx2gdpDB3dFtSe00HhC4YiILxzrU9D9IH5aUC5txsUzFAt4gJ0e5dquLD5ETwCRx79CSR/rUgXgRCyHxC4i62EscCvfv7qWD66vf6c/jr/DBPTBBH3MWVXMDuJAAAAAElFTkSuQmCC",
+            "source": "The Coffee Bean & Tea Leaf",
+            "snippet": "Buy exceptional coffee, tea, powders, equipment and drinkware at The Coffee Bean & Tea Leaf® online store to enjoy our globally sourced products at home.",
             "highlighted_keywords": [
-              "YIELD Coffee Roasters"
+              "Buy exceptional coffee, tea, powders, equipment and drinkware"
             ],
-            "rich_snippet": {
-              "bottom": {
-                "detected_extensions": {},
-                "extensions": [
-                  "Free delivery over $50"
-                ]
-              }
-            },
             "rank": 2,
             "page_rank": 2
-          },
-          {
-            "title": "Coffee Emporium | Enjoy Quality Coffee - Join Us ... - Cincinnati",
-            "link": "https://www.coffee-emporium.com/",
-            "displayed_link": "https://www.coffee-emporium.com",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAZCAMAAABn0dyjAAAAb1BMVEVHcEwjIyMeHh4FBQUAAAADAwMcHBxlZWXIyMiUlJTp6ekgICAeHh4WFhYEBAQQEBAtLS0aGhobGxsjIyMAAAA+Pj4iIiI7OzswMDAUFBQSEhIrKyssLCxGRkYDAwM/Pz9sbGwfHx8REREzMzPY2NgkbiD6AAAAJXRSTlMAb9T8//aUIwcTAoeuwP/RU+mdwe05zZfU7/jJRgfgFxPw/2IQEJS6nQAAASNJREFUeAFtkQeugzAQRB8x1SEOP/ROyv2vmLJiJRB/KN4ZPXcAvJPx/eAURojixMZRYoEkATgbX5UCcPHdt3bGOElSf6MLwHUTpGT+Th7wt/E3cmmLsnRSVAoEtSijkTyDUIoWbPcrekSsQAKDFAWMbgdMklsYZOmNArkCxTowzF8twGh0x6Lg5+5sNEqUM8dxrIA5An7nuketUzh7BL6pu+kILt4Czlf9DywCmGvfp0+gF8cB6LFgLeRyroDKzv7uHHoFWObX6wVER0DWYI17PB75AcjFRpDobS7+7iRvYs/w1Hx0ukNAL9F4XiDFU687jcd5iaIRWn8jZ8He11p+kG0BDwVUwBCouZQAo1oFIEtPk5nOCyIb5tVUTH3e902TfgCYcBRJJM8rZgAAAABJRU5ErkJggg==",
-            "source": "Coffee Emporium",
-            "snippet": "We invest in relationships from seed to cup. We buy coffee directly from farmers to ensure that they receive top dollar for their hard work and quality coffee.Read more",
-            "highlighted_keywords": [
-              "We buy coffee directly from farmers"
-            ],
-            "rank": 3,
-            "page_rank": 3
-          },
-          {
-            "title": "Coffee Shop Cincinnati, OH - Last Updated June 2026",
-            "link": "https://www.yelp.com/search?find_desc=Coffee+Shop&find_loc=Cincinnati%2C+OH",
-            "displayed_link": "https://www.yelp.com › Food",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAflBMVEX0DRX0AAr0AAD0BhD3U1j5ioz5lZf2R0z8xcb+6uv+9fX/+Pn93N31GiH6pKb////4fX/0AAX1LzX8wML4hIb0ERn1KTD+5eX5kJP3XmL4bnH+8PH91db3PkX1HSb7t7r3T1X9ztD3Zmn6qKv4anD1NTz5dnr7r7H3Wl77tLUFH9U+AAAA4UlEQVR4AbTRRWKAMBAFUPKRUmxwd+f+Fyyzwpf9m8iLR/r/CEB8EGRF1X7eVSj6r2FaeEXboT3mO8I1dzS8V5T9gBFcfSpCgxjlKH6qHOtECWQ71bPbzkKWkBdUwtZMSq6Iqga8hgKofK78rKKlomkRdUrPRuoZoXKXoSIKyCiG8bIsNOKUtZjGGLhtORtJGThZL7tDXt/fN3KzCXCKaaFiWXFTeAKuQUpfECXb44XRWkSTvdAe7/FADRH5/BL0mLn3MgrPoUXI95nTUpgm9i+J2W4RUqbN7z/G8QDpb/QAAKRZDoQhpaGVAAAAAElFTkSuQmCC",
-            "source": "Yelp",
-            "snippet": "Coffee Shop Cincinnati, OH · 1. Birdie's Coffee · 2. Highland Coffee House · 3. Viva Coffee Roasters · 4. Cafe Continuum · 5. Coffee Emporium · 6. Cream + Sugar ...Read more",
-            "highlighted_keywords": [
-              "1. Birdie's Coffee"
-            ],
-            "rich_snippet": {
-              "bottom": {
-                "detected_extensions": {
-                  "rating": "4.5",
-                  "reviews": "8,116"
-                },
-                "extensions": [
-                  "4.5",
-                  "(8,116)"
-                ]
-              }
-            },
-            "rank": 4,
-            "page_rank": 4
           },
           {
             "title": "What is coffee? - NCA",
@@ -139,8 +93,71 @@
             "highlighted_keywords": [
               "Learn about the coffee tree, its lifespan, how it produces coffee beans"
             ],
+            "rank": 3,
+            "page_rank": 3
+          },
+          {
+            "title": "Purity Coffee | Shop High Antioxidant Organic Coffee Online",
+            "link": "https://puritycoffee.com/?srsltid=AfmBOoq-ZJQvSbo6luBLxHidAH2M4lngrZ9l27yN0m9UVtUcvDpQ8miq",
+            "displayed_link": "https://puritycoffee.com",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwAqKIAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKMAqKOUxb52AAAAEHRSTlMABhEjX6HJ3v/68LKLSHU2r1raSQAAAORJREFUeAFjgABBRQEGBDAJKwsxgPNUMmZ0dJQoQHlMkR2dKzs6AqBc7s72I1eOd/ZAuS9m7BdgkN8x6wNE7YpuBWZfAXOoar7OYsaIjlqWGcUQrR0HRDtmdSuvqAdz1Tsdrne8jYZxzTs/eLYx2PICFUO4F7zaGRikOzaAuWogxUHMkTMcwFzWjgDRzq6qzjaIK1hm1jNldHR0FECdXNEqoFO1vAbmRY+ZBxlsfeEe5O5Yh+x55oyuAwxI4FvHbAYU6RkbkPnaML9D7drRboDMV2u/gKJ7+gcGZHBcAYWry4ANAAAooUYYhwCehwAAAABJRU5ErkJggg==",
+            "source": "Purity Coffee",
+            "snippet": "Shop Purity Coffee online today. Explore organic, specialty grade coffee that is purity tested, antioxidant rich and crafted for a cleaner cup at Purity ...",
+            "highlighted_keywords": [
+              "Explore organic, specialty grade coffee"
+            ],
+            "rank": 4,
+            "page_rank": 4
+          },
+          {
+            "title": "Coffee Coffee - Bel Air",
+            "link": "https://www.coffeecoffee-online.com/",
+            "displayed_link": "https://www.coffeecoffee-online.com",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABXElEQVR4AeyRgaaDUBjHgz1CzzEA1iZEgO5QJUlQCeUuSVV6hg2gp7h7k7vnCAxA8N3vzL2ZK/ejs81FHz9n7Oz8f/v+wpypqkqs6/odz0/G92dReOZ0XbdqmuYNgz7KshwQ+MXAvmN32N2HBbdtu8aHj0g/hhGwu8iR/ZZ7xWQgAV0RvWJOiIroFfNCVGTb9jWKIsjzHF4lkGUZuK4LiqJcBV3XgWEYBnieB0mSQFEUDw9lbwZBAJqmgSRJsNlsbowC91iWBb7vQ5qm3MFxHN/+nCzLYygyJTCN4zhAVzS9YlVV78PmCZAVESvmFqAqolbMKUBDhywCi8AisAgsAovAfxewLGttGMYJ6V8lIElSj+dpu92uhZ8Jw3BlmuYeHz2jzPAEgQGDz7vdbs+yhL8GBUR8/IDnhVcAQy/IAYNFYcZQFdEr5hyqImLFXENXhEJfu2dnZ3ePkiAGAOIqkJS3QoqOAAAAAElFTkSuQmCC",
+            "source": "coffeecoffee-online.com",
+            "snippet": "Coffee Coffee, repeatedly voted Harford County's BEST, is your go-to spot for freshly roasted coffee, tea and foodie products, breakfast and lunch, unique ...Read more",
+            "highlighted_keywords": [
+              "freshly roasted coffee, tea and foodie products"
+            ],
             "rank": 5,
             "page_rank": 5
+          },
+          {
+            "title": "La Colombe Coffee Workshop - Buy Coffee Online",
+            "link": "https://www.lacolombe.com/?srsltid=AfmBOoq5MWEhK2cQAlql5jofnbQiT81usRlcMm7eHkOzbHJ8glUj9Uuh",
+            "displayed_link": "https://www.lacolombe.com",
+            "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhAIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Ljc3Nzc3Ly03Nzc1LTc3Ljc3LTc3Nys3LTc1NzcuKzc3Ny01Kzc1KysrN//AABEIABwAHAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAHBQEGAP/EACYQAAEDAwMEAgMAAAAAAAAAAAECAwQABRESITEGB1FhIkEygYL/xAAXAQEAAwAAAAAAAAAAAAAAAAACAQME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMSMSH/2gAMAwEAAhEDEQA/AC7YbniklfaaXMtTdxsd0ZkIeaDiWnxpO4zjUCRmuJ6ZtYvd/YthWpsSllBcQMlHxJ1Y9Y3ps7cNmxSXOl3r7BuC2Gy82zGZUFNDUM61ZIG5Hx5rXlYryUot9ghLs8uEX25jZYkw1hLzK+Rng+6n7fe1MXeyzOMWtE+LHaEdUvXLdLmXFLUAlIwR+Ix5/XJod4p422FwsKNTQopOUqIPkHFVukr4505fmbi0t1LTawH0NYy43n5JwdjmpFePFIi/JEXO83VEW4WSHAgO6xKUmY55CADpBH0STn+aI9vdaok7kk/W5rKKLqKEljZuf//Z",
+            "source": "La Colombe Coffee Workshop",
+            "snippet": "Looking to buy coffee online? La Colombe Coffee Workshop has you covered with our wide variety of products and brewing equipment. Shop now for your coffee ...",
+            "highlighted_keywords": [
+              "La Colombe Coffee Workshop"
+            ],
+            "rich_snippet": {
+              "bottom": {
+                "detected_extensions": {},
+                "extensions": [
+                  "Free delivery over $50",
+                  "30-day returns"
+                ]
+              }
+            },
+            "rank": 6,
+            "page_rank": 6
+          },
+          {
+            "title": "Coffee | Origin, Types, Uses, History, & Facts",
+            "link": "https://www.britannica.com/topic/coffee",
+            "displayed_link": "https://www.britannica.com › ... › Food",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEwKPmwLQGwLQGwLQGsAOWgcTXZEaIlXdpMyWn+Bma9uiKGVqbypuskALmLM1t/g5+y0w9Dy9fj///8H8PJTAAAABXRSTlMAILD/6JrywKcAAAGISURBVHgBhZPhjishCIVnawEQRBze/10vmTaZuO3N+kc5fJ4QlOP4ebT/rsdP5Z+bBLiFz59ju49IjBvyOG4DEOGuyl0QbovjzhN16UKdjOW2uAHQTtiIAckUvgBNVKyT6qjDNwBIfQa2GcD8DfC+xGa3tWQM/wTEkENphvBJ0gl+AxiGs+tYqtH6KR8OwDZFT6KzF8hwA++KZfA0CKbAHjzoUkHaAUVfQY/eTdSotrArDV3hAMrVi0AzpMQIT4YioYGNFDiaZ57csMCglAhMnkmAyGemVw24MnMOB4ppaoPHONl9zZIXFoAF1uoOqNLgajm4XeLZCnifczYofS5zAJwvrUMBr6hsVmugJb7yJeR4N8qtohE5HfhMBZ85RyHmbwDAKtRIdT6rQM3omWlwtxpWCTSjcQEYk+vC8nYDDbhsJbQA0pDIybA/FrjMJQWkKq6JDp8/ClRQM7URw9c/2aBBzzRvd3oH2tW04Zt0PDdgZM4NeO6j55F5bsDj1/CCO+zD++f4/wPoVR1v3hUTLgAAAABJRU5ErkJggg==",
+            "source": "Britannica",
+            "snippet": "Coffee, beverage brewed from the roasted and ground seeds of the tropical evergreen coffee plant of African origin. Coffee is one of the ...",
+            "highlighted_keywords": [
+              "Coffee",
+              "coffee",
+              "Coffee"
+            ],
+            "rank": 7,
+            "page_rank": 7
           },
           {
             "title": "Coffee - Walmart.com",
@@ -160,106 +177,42 @@
                 ]
               }
             },
-            "rank": 6,
-            "page_rank": 6
-          },
-          {
-            "title": "This Guy's Coffee - Springboro",
-            "link": "https://www.thisguyscoffee.com/",
-            "displayed_link": "https://www.thisguyscoffee.com",
-            "source": "This Guy's Coffee",
-            "rank": 7,
-            "page_rank": 7
-          },
-          {
-            "title": "Buy Coffee, Tea, Powders Online | The Coffee Bean & Tea ...",
-            "link": "https://www.coffeebean.com/",
-            "displayed_link": "https://www.coffeebean.com",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAIVBMVEVHcExTLG1TLG1TLG1TLW1TLG1TLG1TLW1TLG1TLG1TLG30H49eAAAAC3RSTlMAFT5uyLedLN38V4AViBkAAADiSURBVHgBlZAlYgIAAAAPl4JLm3Zcy1zifGtzLbi2uaQ5UnC+iWvk2sU7JkfrcMxAH93qweWatW+yJ49GE3kKAgCpEwBjBgBkeeI5K/iCmADzifL96QukS5FnwEnyaXMRBAdrNhCskHz/DSJzrZXUINxAeVVCeLFbT0yDaBs0QtnmndpQVLf0FEj6r8Fopavx2gdpDB3dFtSe00HhC4YiILxzrU9D9IH5aUC5txsUzFAt4gJ0e5dquLD5ETwCRx79CSR/rUgXgRCyHxC4i62EscCvfv7qWD66vf6c/jr/DBPTBBH3MWVXMDuJAAAAAElFTkSuQmCC",
-            "source": "The Coffee Bean & Tea Leaf",
-            "snippet": "Buy exceptional coffee, tea, powders, equipment and drinkware at The Coffee Bean & Tea Leaf® online store to enjoy our globally sourced products at home.",
-            "highlighted_keywords": [
-              "Buy exceptional coffee, tea, powders, equipment and drinkware"
-            ],
             "rank": 8,
             "page_rank": 8
           },
           {
-            "title": "La Colombe Coffee Workshop - Buy Coffee Online",
-            "link": "https://www.lacolombe.com/?srsltid=AfmBOop6ZyxoFuF8vLlE71RIcjUIP__z2Amb24ttmYb4rE7IIlYlgSFZ",
-            "displayed_link": "https://www.lacolombe.com",
-            "favicon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBhAIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Ljc3Nzc3Ly03Nzc1LTc3Ljc3LTc3Nys3LTc1NzcuKzc3Ny01Kzc1KysrN//AABEIABwAHAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAHBQEGAP/EACYQAAEDAwMEAgMAAAAAAAAAAAECAwQABRESITEGB1FhIkEygYL/xAAXAQEAAwAAAAAAAAAAAAAAAAACAQME/8QAGxEAAgIDAQAAAAAAAAAAAAAAAQIAEQMSMSH/2gAMAwEAAhEDEQA/AC7YbniklfaaXMtTdxsd0ZkIeaDiWnxpO4zjUCRmuJ6ZtYvd/YthWpsSllBcQMlHxJ1Y9Y3ps7cNmxSXOl3r7BuC2Gy82zGZUFNDUM61ZIG5Hx5rXlYryUot9ghLs8uEX25jZYkw1hLzK+Rng+6n7fe1MXeyzOMWtE+LHaEdUvXLdLmXFLUAlIwR+Ix5/XJod4p422FwsKNTQopOUqIPkHFVukr4505fmbi0t1LTawH0NYy43n5JwdjmpFePFIi/JEXO83VEW4WSHAgO6xKUmY55CADpBH0STn+aI9vdaok7kk/W5rKKLqKEljZuf//Z",
-            "source": "La Colombe Coffee Workshop",
-            "snippet": "Looking to buy coffee online? La Colombe Coffee Workshop has you covered with our wide variety of products and brewing equipment. Shop now for your coffee ...",
+            "title": "Types of Coffee Drinks",
+            "link": "https://www.folgerscoffee.com/coffee/articles/types-of-coffee",
+            "displayed_link": "https://www.folgerscoffee.com › coffee › articles › type...",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAbFBMVEX/////lJn/AAD/ur7/7/D/x8r/UVv/ABf/DCP/ABv/AAX/AB//sbX/VF7//P3/6uz/pKj/ByH/IDL/1tj/hoz/RFD/eoH/5Ob/9/f/q6//Kzr/Mj//mJ7/GS3/N0T/PUn/anL/XGX/3uD/8/Oj3ubQAAAAkUlEQVR4Ab3SVQKEIBRAUcDu7tb9r9FuH07P/T1Ko8/C5BKzIsvxgtgnTSArIlHRLjKYhvQ+QxUl2dyjYo04pdsyhnHIIS4dkefDuAVg4IZ0jAhLxxhGJUmxm0kgTickiDAquRqZuXA3Z0FBHvWpdxjgkIpDf0JhQA82fXgmlgCSUY4PTKjq8O5pWhcMmy30bB3mYgrufwH5GAAAAABJRU5ErkJggg==",
+            "source": "Folgers Coffee",
+            "snippet": "From a strong and bold espresso to a smooth and creamy latte, there's a coffee drink for every taste preference.Read more",
             "highlighted_keywords": [
-              "La Colombe Coffee Workshop"
+              "there's a coffee drink for every taste preference"
             ],
-            "rich_snippet": {
-              "bottom": {
-                "detected_extensions": {},
-                "extensions": [
-                  "Free delivery over $50",
-                  "30-day returns"
-                ]
-              }
-            },
             "rank": 9,
             "page_rank": 9
           }
         ],
-        "relatedSearches": [
-          {
-            "query": "Coffee nearby",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+nearby"
-          },
-          {
-            "query": "Coffee types",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+types"
-          },
-          {
-            "query": "Coffee brands",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+brands"
-          },
-          {
-            "query": "Coffee beans",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+beans"
-          },
-          {
-            "query": "Coffee name",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+name"
-          },
-          {
-            "query": "Coffee Bean menu",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+Bean+menu"
-          },
-          {
-            "query": "Coffee benefits",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+benefits"
-          },
-          {
-            "query": "Coffee powder",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+powder"
-          }
-        ],
         "pagination": {
           "current": "1",
-          "next": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=10&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8NMDegUIswEQFg",
+          "next": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=10&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8NMDegQIXBAW",
           "page_no": {
-            "2": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=10&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8tMDegUIswEQBA",
-            "3": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=20&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8tMDegUIswEQBg",
-            "4": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=30&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8tMDegUIswEQCA",
-            "5": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=40&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8tMDegUIswEQCg",
-            "6": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=50&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8tMDegUIswEQDA",
-            "7": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=60&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8tMDegUIswEQDg",
-            "8": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=70&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8tMDegUIswEQEA",
-            "9": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=80&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8tMDegUIswEQEg",
-            "10": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=-D8wate3G-qEw8cPv9y7uQs&start=90&sa=N&sstk=AU9db-DcuAvz9iLBeBK8uOw3B5inxynoW5-fUCjPoJPh1EQ0EUOvwpg-6MwdInEcSmBf5j7F5tA3cW1dsi1x0X1GCkIe150kl-uOVw&ved=2ahUKEwjXk_Pg64mVAxVqwvACHT_uLrcQ8tMDegUIswEQFA"
+            "2": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=10&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8tMDegQIXBAE",
+            "3": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=20&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8tMDegQIXBAG",
+            "4": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=30&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8tMDegQIXBAI",
+            "5": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=40&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8tMDegQIXBAK",
+            "6": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=50&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8tMDegQIXBAM",
+            "7": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=60&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8tMDegQIXBAO",
+            "8": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=70&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8tMDegQIXBAQ",
+            "9": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=80&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8tMDegQIXBAS",
+            "10": "https://www.google.com/search?q=coffee&safe=off&sca_esv=6eb3871cd6a786af&gl=us&hl=en&ei=GFwwat2UC7__ptQPqfKOsA0&start=90&sa=N&sstk=AU9db-AAB8yFPc7NRSUsUIGiAY-vSJnra9yGZe38sow0JrHXQDg0gLNioYs77c_4d0_odvrR9WxfR5ulM1VSIeoYxV5_agOX2-ydBA&ved=2ahUKEwjdgIDKhoqVAxW_v4kEHSm5A9YQ8tMDegQIXBAU"
           }
         }
       }
     }
   },
-  "requestId": "1ab69eb5-b88a-466e-92a6-b22c8c380be7",
-  "timestamp": 1781550522081,
-  "recordTime": "2026-06-16 03:08:41"
+  "requestId": "701da367-c210-4d24-b707-800c8ae2dc33",
+  "timestamp": 1781554728414,
+  "recordTime": "2026-06-16 04:18:48"
 }
