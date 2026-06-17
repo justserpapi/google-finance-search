@@ -3,14 +3,14 @@
   "message": "success",
   "data": {
     "api": "/api/v1/google/search",
-    "checkedAt": "2026-06-17 04:10:10",
+    "checkedAt": "2026-06-17 06:10:01",
     "example": {
       "code": 200,
       "message": "success",
       "data": {
         "search_information": {
-          "time_taken": 0.39,
-          "total_results": 181,
+          "time_taken": 0.32,
+          "total_results": 183,
           "query_displayed": "coffee",
           "spelling_fixed": "Choose area",
           "showing_results_for": "Choose area",
@@ -25,28 +25,28 @@
           {
             "position": 1,
             "title": "Q Coffee",
-            "rating": "",
-            "reviews": "",
-            "address": "No reviews · Coffee shop",
-            "hours": "North Bergen, NJ",
+            "rating": "3.0",
+            "reviews": "2",
+            "address": "3.0(2) · Coffee shop",
+            "hours": "Clifton, NJ",
             "links": {}
           },
           {
             "position": 2,
             "title": "Q Coffee",
-            "rating": "1.5",
-            "reviews": "2",
-            "address": "1.5(2) · Coffee shop",
-            "hours": "Carlstadt, NJ",
+            "rating": "",
+            "reviews": "",
+            "address": "No reviews · Coffee shop",
+            "hours": "Passaic, NJ",
             "links": {}
           },
           {
             "position": 3,
-            "title": "Q Coffee",
-            "rating": "",
-            "reviews": "",
-            "address": "No reviews · Coffee shop",
-            "hours": "West New York, NJ",
+            "title": "Every Day Grind Coffee Co",
+            "rating": "5.0",
+            "reviews": "83",
+            "address": "5.0(83) · $1–10 · Coffee shop",
+            "hours": "Bloomfield, NJ",
             "links": {}
           }
         ],
@@ -115,36 +115,33 @@
             "page_rank": 3
           },
           {
-            "title": "Coffee and Tea Buying Guides",
-            "link": "https://www.seriouseats.com/coffee-and-tea-buying-guides-7105482",
-            "displayed_link": "https://www.seriouseats.com › Equipment › Coffee & Tea",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAHlBMVEVHcEwIgI0EgJAGgZIGgZIFgJIGgZEGgZIGgZIFgZFTAh/MAAAACnRSTlMACh7O/7s96NyOEnNCoAAAAGBJREFUeAHNx7ERQEAQQNG/NHAlGC0sgZQrQBFqMHICuei6dTPM7A4K8LLHF6nrgCljHDHFNAcuq2bNoFkLkhxelt2ARAfUV0m+CXxBflke3WwDMFl7oDj01lVkgZvwdAKvoU0odcJojQAAAABJRU5ErkJggg==",
-            "source": "Serious Eats",
-            "snippet": "These buying guides will you help decide which coffee and tea gear you need to make the perfect cup and how to get the most out of the gadgets you own.",
+            "title": "Coffee - Walmart.com",
+            "link": "https://www.walmart.com/cp/coffee/1086446",
+            "displayed_link": "https://www.walmart.com › coffee",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAOVBMVEVHcEz/wRz/wR7/wh//wh//wBn/wh//wiD/wR7/wh//wh7/wh7/wR//wh//wR3/wh//wh7/wh//wh5JC3qUAAAAE3RSTlMADS92+AfR/8e5YYeZnhflTOw/6JuIewAAAKFJREFUeAG1koURA0EIANHn7bT/YsPEjXj2XFF4GSTC8JBFODrTwWzATw5h9EOImMwmuGIWW7aT1SxtJ4vJDFvyZP6CfMa2vUXbjbw9xGROmRGqSAWcizkJYQul5itZsjIrLuKLlgj2YF/8uHRwevGjpSOcUOJhzeDkdWBSuEJ1P24fvXwYfxsrFJvy3Amx+2LHByGLg/2HHGIxhgglQniVDZyEB/jjfAsrAAAAAElFTkSuQmCC",
+            "source": "Walmart",
+            "snippet": "Shop for Coffee at Walmart.com. Buy Ground coffee, coffee pods, instant coffee, and whole bean coffee. Save money. Live better.",
             "highlighted_keywords": [
-              "decide which coffee and tea gear you need"
+              "Shop for Coffee at Walmart.com"
             ],
+            "rich_snippet": {
+              "bottom": {
+                "detected_extensions": {
+                  "price": "$16.47",
+                  "currency": "$"
+                },
+                "extensions": [
+                  "$16.47",
+                  "Free 90-day returns"
+                ]
+              }
+            },
             "rank": 4,
             "page_rank": 4
           },
           {
-            "title": "Coffee | Origin, Types, Uses, History, & Facts",
-            "link": "https://www.britannica.com/topic/coffee",
-            "displayed_link": "https://www.britannica.com › ... › Food",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEwKPmwLQGwLQGwLQGsAOWgcTXZEaIlXdpMyWn+Bma9uiKGVqbypuskALmLM1t/g5+y0w9Dy9fj///8H8PJTAAAABXRSTlMAILD/6JrywKcAAAGISURBVHgBhZPhjishCIVnawEQRBze/10vmTaZuO3N+kc5fJ4QlOP4ebT/rsdP5Z+bBLiFz59ju49IjBvyOG4DEOGuyl0QbovjzhN16UKdjOW2uAHQTtiIAckUvgBNVKyT6qjDNwBIfQa2GcD8DfC+xGa3tWQM/wTEkENphvBJ0gl+AxiGs+tYqtH6KR8OwDZFT6KzF8hwA++KZfA0CKbAHjzoUkHaAUVfQY/eTdSotrArDV3hAMrVi0AzpMQIT4YioYGNFDiaZ57csMCglAhMnkmAyGemVw24MnMOB4ppaoPHONl9zZIXFoAF1uoOqNLgajm4XeLZCnifczYofS5zAJwvrUMBr6hsVmugJb7yJeR4N8qtohE5HfhMBZ85RyHmbwDAKtRIdT6rQM3omWlwtxpWCTSjcQEYk+vC8nYDDbhsJbQA0pDIybA/FrjMJQWkKq6JDp8/ClRQM7URw9c/2aBBzzRvd3oH2tW04Zt0PDdgZM4NeO6j55F5bsDj1/CCO+zD++f4/wPoVR1v3hUTLgAAAABJRU5ErkJggg==",
-            "source": "Britannica",
-            "snippet": "Coffee, beverage brewed from the roasted and ground seeds of the tropical evergreen coffee plant of African origin. Coffee is one of the ...",
-            "highlighted_keywords": [
-              "Coffee",
-              "coffee",
-              "Coffee"
-            ],
-            "rank": 5,
-            "page_rank": 5
-          },
-          {
             "title": "Specialty Coffee | Buy Coffee Online",
-            "link": "https://www.drinktrade.com/collections/all?srsltid=AfmBOoqdnJek-VRN0eDWXQZb0HgjLerU-UPwkxuM3emdoOtK41xBMHd5",
+            "link": "https://www.drinktrade.com/collections/all?srsltid=AfmBOopxXRf_IaooZ7-O9d2IaUcMXHM0C23WDOKHMnLHPuZ4KzTLD2S9",
             "displayed_link": "https://www.drinktrade.com › All Specialty Coffee",
             "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAaVBMVEX1PDL1Mib1Niz5lJD3dnD0Jxj+9/f////0AAD1LSD7vLn3enX94N/+8fD5o6D5mJX2Tkb6t7X5m5j0KRz3dXD7wL74iIP0IA780M/+6ej6sa/819X/+/v8yMb6q6j4kIz3ZV/1MSX0IRAImGEoAAAAoElEQVR4AWLACkYBIxMeOUD702AAMRRD65fU+kax/45nDXGxkRc/2bICQGmWcZokGVNVc8rpK5k1bdf0QzFO88KrmLuJpJiXV1ZpQxUsHPoGxsMO0Aiv7HJPTjQHE5yjBbFrN43yJxlH9FVoBZGPldFap9+kjzvWTkf0AjFU0r3HsnBkeiXQChIwbTwczP7+h5ekPBI+S76Lm7mc5Sv3hyvK6Qr7Kdp/7AAAAABJRU5ErkJggg==",
             "source": "Trade Coffee",
@@ -168,27 +165,34 @@
                 ]
               }
             },
+            "rank": 5,
+            "page_rank": 5
+          },
+          {
+            "title": "Coffee and Tea Buying Guides",
+            "link": "https://www.seriouseats.com/coffee-and-tea-buying-guides-7105482",
+            "displayed_link": "https://www.seriouseats.com › Equipment › Coffee & Tea",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAHlBMVEVHcEwIgI0EgJAGgZIGgZIFgJIGgZEGgZIGgZIFgZFTAh/MAAAACnRSTlMACh7O/7s96NyOEnNCoAAAAGBJREFUeAHNx7ERQEAQQNG/NHAlGC0sgZQrQBFqMHICuei6dTPM7A4K8LLHF6nrgCljHDHFNAcuq2bNoFkLkhxelt2ARAfUV0m+CXxBflke3WwDMFl7oDj01lVkgZvwdAKvoU0odcJojQAAAABJRU5ErkJggg==",
+            "source": "Serious Eats",
+            "snippet": "These buying guides will you help decide which coffee and tea gear you need to make the perfect cup and how to get the most out of the gadgets you own.",
+            "highlighted_keywords": [
+              "decide which coffee and tea gear you need"
+            ],
             "rank": 6,
             "page_rank": 6
           },
           {
-            "title": "Counter Culture Coffee",
-            "link": "https://counterculturecoffee.com/?srsltid=AfmBOoqvQCr5iZW74wvQOYV_dF3WJ8gFzIJwMi7-Fz2UERJNw4GjDV4Y",
-            "displayed_link": "https://counterculturecoffee.com",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACu0lEQVR4AWKgAmAFYm4g5gFiNgY6AA5A6fUAK0kQRWE4XTNr27YZrG3biJbB2rZt27Zt27Zt9f5JKslNJdNvKn2SL7V9213YeSiPpHq7AkagB+rrmkIz5NTbjmit4yCg/50QB7AbUXStDLZiKRrqWj7cwknkhoyyu7mOeIi82IMYogt6YQRi6Vpr3MVKcVx0JA77S4gbNkZt4+lrIjFCJQZyo6qozcZ55LXtjlw4g9niZDMKCJkG+IiRyB7OA0RCNLFdER0t+9ERx8XBcOQ3vq5nn69GozC6SXnUzGsGEWGC6IVGOIcM8mSPz6c8th3bUd8YBzEZUTwuXB1LcRUPcRqTkB++Ex2RjAdTYj3YBjeEfxiHKLBKHKSBjGO0sXEJLn7iD1zhu25vIK44N6w53xN1URrV5VuLdh5cfNPtL6zHBOyDiwuIY7PyKdGnu3EI+XRNiTfIht/4CxdPUAAyNZBKvJh1iomLOsYM6Cg+vYtqYr+yX/Pt/x+YCld7gFgwj1U2004ZF8iIqqiIILwe6i/+gfBAPiLfcAJeYylkgrrtLgaeixK6HtlzBbR4gH44hRmIB3NNLwAXv3V7BSkhU9B2BshER3wEPD7/emMavsEEdMQCuNgF4zz7pICMEvWnctGRRPccRnRYJysqYi0KhliMMuGCufwa26sRA8RuRtTBMzxHPTEIzeMioT2O4BXe4Qk2oKqfLoiMLsjuMZDMWhwkRzSPGwegfI8HGY/BSt1fHERDLvTA7DB+3zsevxOjoiuq23bLBLww1gQdq8/bHIOwzxzY4aSFWFjSYjvSICG8Uh45jHGyU9QcWM+QIXiB/eLPsPgYgOri+HaYj83Ioms5UcTPzRXqYiieihHfEauxTyzLkzESS1HYe6zYJ4HxI2QQWmIZ0oivMkysB46m4CsBmG+SQMuEIKzyH3WCk3OyXiwRAAAAAElFTkSuQmCC",
-            "source": "Counter Culture Coffee",
-            "snippet": "Counter Culture Coffee is a specialty coffee roaster sourcing exceptional single-origin and specialty coffee. Fresh-roasted coffee to your doorstep.",
+            "title": "Coffee | Origin, Types, Uses, History, & Facts",
+            "link": "https://www.britannica.com/topic/coffee",
+            "displayed_link": "https://www.britannica.com › ... › Food",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEwKPmwLQGwLQGwLQGsAOWgcTXZEaIlXdpMyWn+Bma9uiKGVqbypuskALmLM1t/g5+y0w9Dy9fj///8H8PJTAAAABXRSTlMAILD/6JrywKcAAAGISURBVHgBhZPhjishCIVnawEQRBze/10vmTaZuO3N+kc5fJ4QlOP4ebT/rsdP5Z+bBLiFz59ju49IjBvyOG4DEOGuyl0QbovjzhN16UKdjOW2uAHQTtiIAckUvgBNVKyT6qjDNwBIfQa2GcD8DfC+xGa3tWQM/wTEkENphvBJ0gl+AxiGs+tYqtH6KR8OwDZFT6KzF8hwA++KZfA0CKbAHjzoUkHaAUVfQY/eTdSotrArDV3hAMrVi0AzpMQIT4YioYGNFDiaZ57csMCglAhMnkmAyGemVw24MnMOB4ppaoPHONl9zZIXFoAF1uoOqNLgajm4XeLZCnifczYofS5zAJwvrUMBr6hsVmugJb7yJeR4N8qtohE5HfhMBZ85RyHmbwDAKtRIdT6rQM3omWlwtxpWCTSjcQEYk+vC8nYDDbhsJbQA0pDIybA/FrjMJQWkKq6JDp8/ClRQM7URw9c/2aBBzzRvd3oH2tW04Zt0PDdgZM4NeO6j55F5bsDj1/CCO+zD++f4/wPoVR1v3hUTLgAAAABJRU5ErkJggg==",
+            "source": "Britannica",
+            "snippet": "Coffee, beverage brewed from the roasted and ground seeds of the tropical evergreen coffee plant of African origin. Coffee is one of the ...",
             "highlighted_keywords": [
-              "Counter Culture Coffee"
+              "Coffee",
+              "coffee",
+              "Coffee"
             ],
-            "rich_snippet": {
-              "bottom": {
-                "detected_extensions": {},
-                "extensions": [
-                  "Free delivery over $30"
-                ]
-              }
-            },
             "rank": 7,
             "page_rank": 7
           },
@@ -206,23 +210,20 @@
             "page_rank": 8
           },
           {
-            "title": "Coffee",
-            "link": "https://www.amazon.com/coffee/s?k=coffee",
-            "displayed_link": "https://www.amazon.com › coffee › k=coffee",
-            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAkFBMVEVHcEz////////////////////////9/f3///////////////////////////////8AAAAEBQX/+/P19fX/owD5+fn/9OT/2qa3t7fZ2dlFRkbv7+//sBv/u0qTk5M4ODhpamr/48H/w2skJSWoqamdnp7BwcH/6Mj/8Nn/yoHj4+PMzMz/05V7fHxUVVXFxsax0Hb5AAAAD3RSTlMAoquz6Cdx/Dj0AVx/xMG1dKA/AAABSElEQVQokW2TiZKCMAyG67WCulso0INyyQ3q+v5vt+nFjkqGGdL/a9I0kyJ08nY+/jB/6yGETl//SgK2LI5fCHnLQvRdUXRcHJ3goZ11ZZcG2tLWRW+QO+9hUAgft9IeWYdrvWyCMAzSyIoO/kJUKRKZKvoOq6YJe/j3axAn8xwdpXyuQiwF76qqWYW3R2PKXYGi1HesHmuRUGUQtrMUK1AqrQDxtgK50p7gFMoRr7BVWovxXOoUr1AfVfJbpcoNXKgryIiu9/0r5EYNqg6uWyRvTeh167nEbcoTTEZq4MiIbm4EppwIkzyOa6ohuWcGL0YGcs1Hm5Zl2X2kdgOhlGU1m2BpxmSo4zif2BWMTZBzGtmgxmRrtjOQrEEYwSrPBnl2Eun1XudZltdsoEbxDwid964MOI3SpbT9GUYeHS7fH+/B/7lA3B/AbTdy3QTUswAAAABJRU5ErkJggg==",
-            "source": "Amazon.com",
-            "snippet": "Shop coffee products designed for coffee enthusiasts. Discover instant options and specialty roasts available.",
+            "title": "Counter Culture Coffee",
+            "link": "https://counterculturecoffee.com/?srsltid=AfmBOor6XQcFLWJkilC8NcJ8LYx7AFA4_s73KRw6PI5Do0w_fodZLEyJ",
+            "displayed_link": "https://counterculturecoffee.com",
+            "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACu0lEQVR4AWKgAmAFYm4g5gFiNgY6AA5A6fUAK0kQRWE4XTNr27YZrG3biJbB2rZt27Zt27Zt9f5JKslNJdNvKn2SL7V9213YeSiPpHq7AkagB+rrmkIz5NTbjmit4yCg/50QB7AbUXStDLZiKRrqWj7cwknkhoyyu7mOeIi82IMYogt6YQRi6Vpr3MVKcVx0JA77S4gbNkZt4+lrIjFCJQZyo6qozcZ55LXtjlw4g9niZDMKCJkG+IiRyB7OA0RCNLFdER0t+9ERx8XBcOQ3vq5nn69GozC6SXnUzGsGEWGC6IVGOIcM8mSPz6c8th3bUd8YBzEZUTwuXB1LcRUPcRqTkB++Ex2RjAdTYj3YBjeEfxiHKLBKHKSBjGO0sXEJLn7iD1zhu25vIK44N6w53xN1URrV5VuLdh5cfNPtL6zHBOyDiwuIY7PyKdGnu3EI+XRNiTfIht/4CxdPUAAyNZBKvJh1iomLOsYM6Cg+vYtqYr+yX/Pt/x+YCld7gFgwj1U2004ZF8iIqqiIILwe6i/+gfBAPiLfcAJeYylkgrrtLgaeixK6HtlzBbR4gH44hRmIB3NNLwAXv3V7BSkhU9B2BshER3wEPD7/emMavsEEdMQCuNgF4zz7pICMEvWnctGRRPccRnRYJysqYi0KhliMMuGCufwa26sRA8RuRtTBMzxHPTEIzeMioT2O4BXe4Qk2oKqfLoiMLsjuMZDMWhwkRzSPGwegfI8HGY/BSt1fHERDLvTA7DB+3zsevxOjoiuq23bLBLww1gQdq8/bHIOwzxzY4aSFWFjSYjvSICG8Uh45jHGyU9QcWM+QIXiB/eLPsPgYgOri+HaYj83Ioms5UcTPzRXqYiieihHfEauxTyzLkzESS1HYe6zYJ4HxI2QQWmIZ0oivMkysB46m4CsBmG+SQMuEIKzyH3WCk3OyXiwRAAAAAElFTkSuQmCC",
+            "source": "Counter Culture Coffee",
+            "snippet": "Counter Culture Coffee is a specialty coffee roaster sourcing exceptional single-origin and specialty coffee. Fresh-roasted coffee to your doorstep.",
             "highlighted_keywords": [
-              "Shop coffee products designed for coffee enthusiasts"
+              "Counter Culture Coffee"
             ],
-            "inline_snippet": "4.5",
             "rich_snippet": {
               "bottom": {
                 "detected_extensions": {},
                 "extensions": [
-                  "4.5 store rating (10K)",
-                  "4.5",
-                  "Free 30-day returns"
+                  "Free delivery over $30"
                 ]
               }
             },
@@ -252,12 +253,12 @@
             "link": "https://www.google.com/search?gl=us&q=Coffee+beans"
           },
           {
-            "query": "Coffee Pic",
-            "link": "https://www.google.com/search?gl=us&q=Coffee+Pic"
-          },
-          {
             "query": "Coffee name",
             "link": "https://www.google.com/search?gl=us&q=Coffee+name"
+          },
+          {
+            "query": "Coffee Pic",
+            "link": "https://www.google.com/search?gl=us&q=Coffee+Pic"
           },
           {
             "query": "Coffee NESCAFÉ",
@@ -266,23 +267,23 @@
         ],
         "pagination": {
           "current": "1",
-          "next": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=10&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8NMDegQIVRAW",
+          "next": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=10&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8NMDegUIjwEQFg",
           "page_no": {
-            "2": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=10&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8tMDegQIVRAE",
-            "3": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=20&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8tMDegQIVRAG",
-            "4": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=30&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8tMDegQIVRAI",
-            "5": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=40&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8tMDegQIVRAK",
-            "6": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=50&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8tMDegQIVRAM",
-            "7": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=60&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8tMDegQIVRAO",
-            "8": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=70&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8tMDegQIVRAQ",
-            "9": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=80&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8tMDegQIVRAS",
-            "10": "https://www.google.com/search?q=coffee&safe=off&sca_esv=f7ed08c59bb0b0af&gl=us&hl=en&ei=IB4yaveFFLPS5NoPh82zoQw&start=90&sa=N&sstk=AU9db-DjSwcUq67dmYk2dEFQorkEw46ri5Ohtd5VMa6hzqxS8hvX9yNhuQtThVIGYWglpnCB9_2bd8bc12RzcPMoOs7pEh9Ns_RMGQ&ved=2ahUKEwj3lcPhs42VAxUzKVkFHYfmLMQQ8tMDegQIVRAU"
+            "2": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=10&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8tMDegUIjwEQBA",
+            "3": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=20&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8tMDegUIjwEQBg",
+            "4": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=30&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8tMDegUIjwEQCA",
+            "5": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=40&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8tMDegUIjwEQCg",
+            "6": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=50&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8tMDegUIjwEQDA",
+            "7": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=60&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8tMDegUIjwEQDg",
+            "8": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=70&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8tMDegUIjwEQEA",
+            "9": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=80&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8tMDegUIjwEQEg",
+            "10": "https://www.google.com/search?q=coffee&safe=off&sca_esv=cad0c82d9e7a6f03&gl=us&hl=en&ei=ODoyasa5Cvix5NoPlpeEqA4&start=90&sa=N&sstk=AU9db-Djvu2ugdG1mnZ70KjlOHjCK3U9yZXavV9SPHenWJtAg1PtYWhN2vQ_WOOxdLOtjjXIANGql1hzTa8S36zd00DImcbRC2nKKQ&ved=2ahUKEwjGte7Gzo2VAxX4GFkFHZYLAeUQ8tMDegUIjwEQFA"
           }
         }
       }
     }
   },
-  "requestId": "c07bc7ba-0718-4a47-8e80-58aa364ae128",
-  "timestamp": 1781672403894,
-  "recordTime": "2026-06-17 13:00:03"
+  "requestId": "80f46857-5000-415a-99be-bc32542b1b29",
+  "timestamp": 1781676856490,
+  "recordTime": "2026-06-17 14:14:16"
 }
